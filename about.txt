@@ -1,2 +1,3 @@
 Name: Charishma Yadla
 Course: Bsc Computer Science
+I learned how GitHub uses Git to manage code history, allowing teams to collaborate smoothly using features like branches, commits, and pull requests
